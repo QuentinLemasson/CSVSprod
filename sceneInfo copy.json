@@ -1,0 +1,250 @@
+{
+    "arrayScenes": [
+        {
+            "category": "hub",
+            "theme": "neutre",
+            "whitelisted": false,
+            "id": "Start_Experience"
+        },
+        {
+            "category": "hub",
+            "theme": "neutre",
+            "whitelisted": false,
+            "id": "StartExperience"
+        },
+        {
+            "category": "hub",
+            "theme": "neutre",
+            "whitelisted": false,
+            "id": "Couloir"
+        },
+        {
+            "category": "hub",
+            "theme": "neutre",
+            "whitelisted": false,
+            "id": "Couloir_1"
+        },
+        {
+            "category": "hub",
+            "theme": "neutre",
+            "whitelisted": false,
+            "id": "scene_1"
+        },
+        {
+            "category": "couloir_formation",
+            "theme": "neutre",
+            "whitelisted": true,
+            "id": "Couloir_Formation"
+        },
+        {
+            "category": "couloir_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Couloir_Formation_Gestes_a_adopter"
+        },
+        {
+            "category": "couloir_formation",
+            "theme": "gestion_mortuaire",
+            "whitelisted": false,
+            "id": "Couloir_Formation_Gestion_mortuaire"
+        },
+        {
+            "category": "couloir_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Couloir_Formation_Gestes_en_chambre"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "neutre",
+            "whitelisted": true,
+            "id": "Couloir_Evaluation"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestes_a_adopter_v1_v2"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestes_a_adopter_v1"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestes_a_adopter_v2"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestion_mortuaire",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestion_mortuaire_v1_v2"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestion_mortuaire",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestion_mortuaire_v1"
+        },
+        {
+            "category": "couloir_entrainement",
+            "theme": "gestion_mortuaire",
+            "whitelisted": false,
+            "id": "Couloir_Evaluation_Gestion_mortuaire_v2"
+        },
+        {
+            "category": "hub_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": false,
+            "id": "Chambre_Formation_Gestes_a_adopter"
+        },
+        {
+            "category": "hub_formation",
+            "theme": "gestion_mortuaire",
+            "whitelisted": false,
+            "id": "Chambre_Formation_Gestion_mortuaire"
+        },
+        {
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_oxygene"
+        },
+        {
+            "category": "chambre_formation",
+            "theme": "gestion_mortuaire",
+            "whitelisted": true,
+            "id": "Video_gestion_du_corps"
+        },
+        {
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_des_dechets"
+        },
+        {
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_entretien"
+        },
+        {
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_des_excretas"
+        },
+        {
+            "name": "Video_gestion_des_plateaux_repas",
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_des_plateaux_repas"
+        },
+        {
+            "name": "Video_gestion_linge",
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_linge"
+        },
+        {
+            "name": "Video_gestion_materiel_de_soin",
+            "category": "chambre_formation",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Video_gestion_materiel_de_soin"
+        },
+        {
+            "name": "Video_gestion_des_effets_perso",
+            "category": "chambre_formation",
+            "theme": "gestion_mortuaire",
+            "whitelisted": true,
+            "id": "Video_gestion_des_effets_perso"
+        },
+        {
+            "name": "Chambre_des_erreurs_Gestes_a_adopter_v1",
+            "category": "chambre_entrainement",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Chambre_des_erreurs_Gestes_a_adopter_v1"
+        },
+        {
+            "name": "Chambre_des_erreurs_Gestes_a_adopter_v2",
+            "category": "chambre_entrainement",
+            "theme": "gestes_a_adopter",
+            "whitelisted": true,
+            "id": "Chambre_des_erreurs_Gestes_a_adopter_v2"
+        },
+        {
+            "name": "Chambre_des_erreurs_Gestion_mortuaire_v1",
+            "category": "chambre_entrainement",
+            "theme": "gestion_mortuaire",
+            "whitelisted": true,
+            "id": "Chambre_des_erreurs_Gestion_mortuaire_v1"
+        },
+        {
+            "name": "Chambre_des_erreurs_Gestion_mortuaire_v2",
+            "category": "chambre_entrainement",
+            "theme": "gestion_mortuaire",
+            "whitelisted": true,
+            "id": "Chambre_des_erreurs_Gestion_mortuaire_v2"
+        }
+    ],
+    "arrayCategories": [
+        {
+            "name": "hub",
+            "color": "#ff7800",
+            "whitelisted": true,
+            "id": "hub"
+        },
+        {
+            "name": "hub_formation",
+            "color": "#77767b",
+            "whitelisted": true,
+            "id": "hub_formation"
+        },
+        {
+            "name": "couloir_formation",
+            "color": "#f6d32d",
+            "whitelisted": true,
+            "id": "couloir_formation"
+        },
+        {
+            "name": "chambre_formation",
+            "color": "#e01b24",
+            "whitelisted": true,
+            "id": "chambre_formation"
+        },
+        {
+            "name": "couloir_entrainement",
+            "color": "#62a0ea",
+            "whitelisted": true,
+            "id": "couloir_entrainement"
+        },
+        {
+            "name": "chambre_entrainement",
+            "color": "#2ec27e",
+            "whitelisted": true,
+            "id": "chambre_entrainement"
+        }
+    ],
+    "arrayThemes": [
+        {
+            "color": "#5e5c64",
+            "id": "neutre"
+        },
+        {
+            "color": "#e66465",
+            "id": "gestion_mortuaire"
+        },
+        {
+            "color": "#99c1f1",
+            "id": "gestes_a_adopter"
+        }
+    ]
+}
